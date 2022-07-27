@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_776039_gestao_0.supervisao_estoque" name="x_776039_gestao_0.supervisao_estoque">3172b5ad2f320110aae5802df699b669</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 12:46:44</sys_created_on>
+        <sys_id>7d72b5ad2f320110aae5802df699b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3172b5ad2f320110aae5802df699b669</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_776039_gestao_0">d7108c3b2f4601109de890bcf699b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">d7108c3b2f4601109de890bcf699b6a5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7d72b5ad2f320110aae5802df699b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 12:46:44</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
