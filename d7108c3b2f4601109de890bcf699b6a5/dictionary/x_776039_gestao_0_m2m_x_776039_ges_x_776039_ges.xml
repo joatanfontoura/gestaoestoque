@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f65f40ff473211101c66fee3846d43c4" label="x_776039_gestao_0_m2m_Pedidos_Produtos" max_length="40" name="x_776039_gestao_0_m2m_x_776039_ges_x_776039_ges" type="collection">
+        <element attributes="encode_utf8=false" label="Produtos" max_length="32" name="x_776039_gestao_0_estoque" reference="x_776039_gestao_0_estoque" type="reference"/>
+        <element attributes="encode_utf8=false" label="Pedidos" max_length="32" name="x_776039_gestao_0_pedidos" reference="x_776039_gestao_0_pedidos" type="reference"/>
+        <index name="index">
+            <element name="x_776039_gestao_0_estoque"/>
+        </index>
+        <index name="index2">
+            <element name="x_776039_gestao_0_pedidos"/>
+        </index>
+    </element>
+</database>

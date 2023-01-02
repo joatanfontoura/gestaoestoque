@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_776039_gestao_0_ld_cadastro_de_pedidos</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2022-10-11 19:36:35</sys_created_on>
+        <sys_id>713be12047a211101c66fee3846d43db</sys_id>
+        <sys_name>x_776039_gestao_0_ld_cadastro_de_pedidos</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_776039_gestao_0">d7108c3b2f4601109de890bcf699b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">d7108c3b2f4601109de890bcf699b6a5</sys_scope>
+        <sys_update_name>ua_table_licensing_config_713be12047a211101c66fee3846d43db</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>

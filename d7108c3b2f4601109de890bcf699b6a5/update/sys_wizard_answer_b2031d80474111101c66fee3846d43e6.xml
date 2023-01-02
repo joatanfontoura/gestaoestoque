@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Pedidos</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Pedidos</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">55464cb521120110a866589604c20d56</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 14:59:49</sys_created_on>
+        <sys_id>b2031d80474111101c66fee3846d43e6</sys_id>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">d7108c3b2f4601109de890bcf699b6a5</sys_scope>
+        <sys_update_name>sys_wizard_answer_b2031d80474111101c66fee3846d43e6</sys_update_name>
+        <table/>
+        <target_url>x_776039_gestao_0_pedidos.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

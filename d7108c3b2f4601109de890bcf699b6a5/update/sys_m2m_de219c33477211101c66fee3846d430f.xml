@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_776039_gestao_0_estoque</from_table>
+        <m2m_from_field>x_776039_gestao_0_estoque</m2m_from_field>
+        <m2m_from_label>Pedidos</m2m_from_label>
+        <m2m_table>x_776039_gestao_0_m2m_estoque_x_pedidos</m2m_table>
+        <m2m_to_field>x_776039_gestao_0_pedidos</m2m_to_field>
+        <m2m_to_label>Estoques</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 01:41:16</sys_created_on>
+        <sys_id>de219c33477211101c66fee3846d430f</sys_id>
+        <sys_name>x_776039_gestao_0_m2m_estoque_x_pedidos</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_776039_gestao_0">d7108c3b2f4601109de890bcf699b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">d7108c3b2f4601109de890bcf699b6a5</sys_scope>
+        <sys_update_name>sys_m2m_de219c33477211101c66fee3846d430f</sys_update_name>
+        <to_table>x_776039_gestao_0_pedidos</to_table>
+    </sys_m2m>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_776039_gestao_0_pedidos</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>Dados do Pedido...</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Pedido Entregue</name>
+        <sms_alternate/>
+        <subject>Novo Pedido:</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 15:21:26</sys_created_on>
+        <sys_id>29b7d108474111101c66fee3846d433b</sys_id>
+        <sys_name>Pedido Entregue</sys_name>
+        <sys_package display_value="Gestao de Estoque" source="x_776039_gestao_0">d7108c3b2f4601109de890bcf699b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Estoque">d7108c3b2f4601109de890bcf699b6a5</sys_scope>
+        <sys_update_name>sysevent_email_template_29b7d108474111101c66fee3846d433b</sys_update_name>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

@@ -11,15 +11,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-04-12 15:34:13</sys_created_on>
-            <sys_id>b462abb12fb24110aae5802df699b6d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>Como foi a experiência?</sys_name>
             <sys_package display_value="Gestao de Estoque" source="x_776039_gestao_0">d7108c3b2f4601109de890bcf699b6a5</sys_package>
             <sys_policy/>
             <sys_scope display_value="Gestao de Estoque">d7108c3b2f4601109de890bcf699b6a5</sys_scope>
             <sys_update_name>sys_documentation_x_776039_gestao_0_pedidos_experiencia_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-12 15:34:13</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

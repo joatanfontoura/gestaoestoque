@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="39a0c47b2f4601109de890bcf699b692" label="Estoque" max_length="40" name="x_776039_gestao_0_estoque" type="collection">
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Imagem" max_length="40" name="imagem" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Produto" max_length="40" name="produto" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Quantidade" mandatory="true" max_length="40" name="quantidade" type="integer"/>
+    </element>
+</database>

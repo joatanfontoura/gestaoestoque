@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d3be12047a211101c66fee3846d43ae" extends="sys_import_set_row" label="LD Cadastro de Pedidos" max_length="40" name="x_776039_gestao_0_ld_cadastro_de_pedidos" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Produto" label="Produto" max_length="40" name="u_produto" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>
